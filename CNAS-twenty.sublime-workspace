@@ -1,0 +1,520 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Hi",
+				"HideSPField"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 9068,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "CNAS-twenty.sublime-project",
+			"settings":
+			{
+				"buffer_size": 45,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/AppleScript Extensions/AppleScript.sublime-build",
+					""
+				],
+				[
+					"Packages/AppleScript Extensions/AppleScript.sublime-build",
+					"Run the script"
+				]
+			],
+			[
+				"Packages/AppleScript Extensions/AppleScript.sublime-build",
+				"Run the script"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 107.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"in",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Copy to Clipboard"
+			],
+			[
+				"fold",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"previ",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"",
+				"ANF: New File"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/luke/Dropbox/Sites/CNAS-twenty",
+		"/Users/luke/Dropbox/Sites/CNAS-twenty/_includes"
+	],
+	"file_history":
+	[
+		"/Users/luke/Dropbox/Sites/CNAS-twenty/index.html",
+		"/C/Users/cmsxlb/Dropbox/Sites/CNAS-twenty/feed.xml",
+		"/C/Users/cmsxlb/Dropbox/Sites/CNAS-twenty/_resources/temple-grandin.md",
+		"/C/Users/cmsxlb/Dropbox/Sites/CNAS-twenty/_resources/daniel-tammet.md",
+		"/C/Users/cmsxlb/Dropbox/Sites/CNAS-twenty/_resources/my-autism-and-me.md",
+		"/C/Users/cmsxlb/Dropbox/Sites/CNAS-twenty/_resources/curious-incident-dog-nighttime.md",
+		"/Users/luke/Dropbox/Sites/draft-calderdalenas/resources/index.md",
+		"/Users/luke/Library/Application Support/Sublime Text 3/Packages/User/Jekyll Resource Book.snippet",
+		"/Users/luke/Dropbox/Sites/CNAS-twenty/css/style.css",
+		"/Users/luke/Dropbox/Sites/CNAS-twenty/_resources/the-reason-i-jump.md",
+		"/Users/luke/Dropbox/Sites/CNAS-twenty/_resources/my-eyes.md",
+		"/Users/luke/Dropbox/Sites/CNAS-twenty/_resources/daniel-tammet.md",
+		"/Users/luke/Dropbox/Sites/CNAS-twenty/_resources/temple-grandin.md",
+		"/Users/luke/Dropbox/Sites/CNAS-twenty/_resources/my-autism-and-me.md",
+		"/Users/luke/Dropbox/Sites/CNAS-twenty/_layouts/resource.html",
+		"/Users/luke/Dropbox/Sites/CNAS-twenty/volunteering.md",
+		"/Users/luke/Dropbox/Sites/CNAS-twenty/template.md",
+		"/Users/luke/Dropbox/Sites/CNAS-twenty/.gitignore",
+		"/Users/luke/Dropbox/Sites/CNAS-twenty/_includes/head.html",
+		"/Users/luke/Dropbox/Sites/CNAS-twenty/_resources/the-autistic-spectrum.md",
+		"/Users/luke/Dropbox/scripts/CopyFileToClipboard.applescript",
+		"/Users/luke/Library/Application Scripts/com.omnigroup.OmniFocus2/CreateProject.scpt",
+		"/Users/luke/Desktop/transcript.txt",
+		"/Users/luke/Dropbox/Apps/Sublime/User/Markdown to DOCX.sublime-build",
+		"/Users/luke/Dropbox/Apps/Sublime/User/notes.sublime-project",
+		"/C/Users/cmsxlb/Dropbox/Apps/Notes/sharepoint powershell.txt",
+		"/Users/luke/Dropbox/Apps/Sublime/User/notes(Windows).sublime-project",
+		"/Users/luke/Dropbox/Apps/Sublime/User/journal.sublime-project",
+		"/C/Users/cmsxlb/Dropbox/Apps/Notes/qq what is the name of the database server for our sharepoint farm.txt",
+		"/Users/luke/Dropbox/Apps/Sublime/User/SublimeREPL.sublime-settings",
+		"/Users/luke/Dropbox/Apps/Sublime/User/Preferences (Windows).sublime-settings",
+		"/C/Users/cmsxlb/Dropbox/Apps/Notes/broke.txt",
+		"/C/Users/cmsxlb/Dropbox/Apps/Notes/sharepoint.txt",
+		"/C/Users/cmsxlb/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/cmsxlb/Dropbox/Work/project reference/prevent/ReferralsNewForm.js",
+		"/C/Users/cmsxlb/Dropbox/Apps/Notes/qq how do I apply the default master page.txt",
+		"/C/Users/cmsxlb/Dropbox/Apps/Notes/student portal notes.txt",
+		"/C/Users/cmsxlb/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/cmsxlb/Dropbox/Work/project reference/~archive/sp2013test/UniShare.master",
+		"/C/Users/cmsxlb/Dropbox/Apps/Notes/qq how can I list unique filetypes in a directory.txt",
+		"/C/Users/cmsxlb/Dropbox/Apps/Notes/sharepoint move or copy site collection or subsite.txt",
+		"/C/Users/cmsxlb/Dropbox/Apps/Notes/SharePoint Designer.txt",
+		"/C/Users/cmsxlb/Dropbox/Work/wktmp/MyNextSteps.html",
+		"/C/Users/cmsxlb/Dropbox/Apps/Sublime/User/Preferences (Windows).sublime-settings",
+		"/C/Users/cmsxlb/Dropbox/Apps/Sublime/User/Preferences.sublime-settings",
+		"/C/Users/cmsxlb/Dropbox/Apps/Notes/how can I access my work calendar without email.txt",
+		"/C/Users/cmsxlb/Dropbox/Apps/Notes/how can i tell if a file is locked in SharePoint.txt",
+		"/C/Users/cmsxlb/Dropbox/Apps/Notes/staffhub notes.txt",
+		"/C/Users/cmsxlb/Dropbox/Apps/Notes/Staff Hub Usage Report.txt",
+		"/C/Users/cmsxlb/Dropbox/Work/project reference/~archive/staff hub usage report/Staff Hub Usage Report.txt",
+		"/C/Users/cmsxlb/Dropbox/Apps/Notes/SharePoint MySites.txt",
+		"/C/Users/cmsxlb/Dropbox/Apps/Notes/EDRMS Document ID Settings.txt",
+		"/C/Users/cmsxlb/Dropbox/Apps/Notes/Document IDs in SharePoint.txt",
+		"/C/Users/cmsxlb/Dropbox/Apps/Notes/powershell remoting onto server.txt",
+		"/C/Users/cmsxlb/Scripts/Enter-DevHUAzureServer.ps1",
+		"/C/Users/cmsxlb/Dropbox/Apps/Notes/Office Documents Do Not Open From SharePoint.txt",
+		"/C/Users/cmsxlb/Dropbox/Apps/Notes/SharePoint Themes.txt",
+		"/C/Users/cmsxlb/Scripts/Enter-TestHUAzureServer.ps1",
+		"/C/Users/cmsxlb/Dropbox/Apps/Notes/Beer Pairings.txt",
+		"/C/Users/cmsxlb/Dropbox/Apps/Notes/powershell.txt",
+		"//unishare.hud.ac.uk@SSL/DavWWWRoot/cls/teams/it/dcsitnetworks/it/Virtual Server Requests/VSR385 - Baghdad - SharePoint 2013 Web Server 1.xml",
+		"/C/Users/cmsxlb/Dropbox/Work/project reference/cls admin forms/CLS Admin Catering Form.xsn",
+		"/C/Users/cmsxlb/Dropbox/Apps/Notes/mac clipboard.txt",
+		"/C/Users/cmsxlb/Dropbox/Work/wktmp/2015-08-14-web-part-page-error.log",
+		"/C/Users/cmsxlb/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/CUO2AM20/CustomEditingMenu.xml",
+		"/C/Users/cmsxlb/Dropbox/Apps/Notes/office jargon.txt",
+		"/C/Users/cmsxlb/Dropbox/Apps/Notes/slackware.txt",
+		"/C/Users/cmsxlb/Scripts/Enter-HUSPServer.ps1",
+		"/C/Users/cmsxlb/Scripts/Enter-HUAzureServer.ps1",
+		"//vilnius/d$/SPLogs/VILNIUS-20150811-0935.log",
+		"/C/Users/cmsxlb/Dropbox/Work/wktmp/Automys_Scheduled-Virtual-Machine-Shutdown-Startup-Microsoft-Azure/Assert-AutoShutdownSchedule.ps1",
+		"/C/Users/cmsxlb/Dropbox/Apps/Notes/SharePoint Content Types.txt",
+		"/C/Users/cmsxlb/Dropbox/Work/SharePointScripts/azupload.bat",
+		"//southport/d$/scripts/GetSiteStorage.ps1",
+		"//southport/d$/scripts/SiteReport.ps1",
+		"//southport/d$/scripts/SiteStorage.ps1",
+		"//southport/d$/scripts/CT001.ps1",
+		"//southport/d$/scripts/CT.ps1",
+		"//southport/d$/scripts/ContentTypes.ps1",
+		"//southport/d$/scripts/CT003.ps1",
+		"//southport/d$/scripts/CT002.ps1",
+		"//southport/d$/scripts/PS_GetSiteCollectionSize.ps1",
+		"//southport/d$/scripts/PublishCTTypes.ps1",
+		"/C/Users/cmsxlb/Dropbox/Work/project reference/wisdom/uniCommiteeHealthSafty.xml",
+		"/C/Users/cmsxlb/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences (Windows).sublime-settings",
+		"/C/Users/cmsxlb/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/SJBJ2IYD/docData.txt",
+		"/C/Users/cmsxlb/Dropbox/Work/project reference/wisdom/ReviewClasses.xml",
+		"/C/Users/cmsxlb/Dropbox/Work/project reference/wisdom/docData.txt",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/cmsxlb/Dropbox/Work/tmp/mmdata/ECMPackage.dat",
+		"/C/Users/cmsxlb/Downloads/Work-UniCouncil/Read Me.txt",
+		"/C/Users/cmsxlb/Dropbox/vim/doc/NERD_tree.txt",
+		"/C/Users/cmsxlb/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/cmsxlb/Downloads/massEmail.js",
+		"/C/Users/cmsxlb/Downloads/SharePoint Manager 2013/SharePoint Manager 2013/SharePoint Manager 2013.exe.config",
+		"/C/Users/cmsxlb/Downloads/underscore-min.js",
+		"//victoria/c$/inetpub/wwwroot/wss/VirtualDirectories/UniShare/NLog.config",
+		"//nas01/staffhome/cmsxlb/Organisation/CLS.TXT",
+		"/C/Users/cmsxlb/Dropbox/Apps/hosts/test.hosts",
+		"/C/Users/cmsxlb/Dropbox/Apps/hosts/bm_test.hosts",
+		"//vaduz/C$/inetpub/mailroot/Drop/7c52f77701d02ff000000002.eml",
+		"/C/Users/cmsxlb/Dropbox/Work/project reference/portalDevelopmentGroup/PortalPlus Development Group.md",
+		"/Users/luke/Dropbox/Work/project reference/wisdom/complexity outline.txt",
+		"/Users/luke/Dropbox/Work/project reference/wisdom to sp migration outline.txt",
+		"/Users/luke/Dropbox/Work/project reference/SEPD SharePoint Workshop/SharePoint Workshop.md",
+		"/Users/luke/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/Markdown (Standard).sublime-settings",
+		"/Users/luke/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/MultiMarkdown.sublime-settings",
+		"/Users/luke/Dropbox/Apps/Sublime/User/notes(OSX).sublime-project",
+		"/Users/luke/Dropbox/Apps/Notes/my home printer.txt",
+		"/Users/luke/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/luke/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/luke/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/luke/Dropbox/Apps/Sublime/User",
+			"C:\\Users\\cmsxlb\\Dropbox\\Apps\\Notes,C:\\Users\\cmsxlb\\Dropbox\\Work\\project reference,<open folders>",
+			"C:\\Users\\cmsxlb\\Dropbox\\Apps\\Notes,C:\\Users\\cmsxlb\\Dropbox\\Work\\project reference",
+			"C:\\Users\\cmsxlb\\Dropbox\\Apps\\Notes,C:\\Users\\cmsxlb\\Dropbox\\Work\\project reference,\\\\accra\\d$\\SPLogs",
+			"C:\\Users\\cmsxlb\\Dropbox\\Apps\\Notes,C:\\Users\\cmsxlb\\Dropbox\\Work\\project reference",
+			"C:\\Users\\cmsxlb\\Dropbox\\Apps\\Notes,C:\\Users\\cmsxlb\\Dropbox\\Work",
+			"C:\\Users\\cmsxlb\\Dropbox\\Apps\\Notes",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"icon",
+			"osx",
+			"[OSX]",
+			"sputility",
+			"countryField",
+			"master page",
+			"content database",
+			"lock",
+			"import",
+			"SharePoint Designer",
+			"mysite",
+			"lock",
+			"correlation",
+			"contentdatabase",
+			"SharePoint",
+			"Huddersfield University",
+			"profile",
+			"loginasanotheruser",
+			"Content Type HUb",
+			"content database",
+			"login",
+			"d6e3229d-8d78-c096-7c33-2c66fb402d8f",
+			"remote",
+			"powershell",
+			"publishing",
+			"proxy",
+			"FieldLevelSecurityEventReceiver",
+			"credential",
+			"Portal",
+			"portal",
+			"printer",
+			"proxy",
+			"printer",
+			"proxy"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ReferralActionTakenField"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9068,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2266,
+								2266
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 405.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "CNAS-twenty.sublime-project",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 243.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/AppleScript Extensions/AppleScript.sublime-build",
+	"project": "CNAS-twenty.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"sharepoint powershell.txt"
+			],
+			[
+				"sharepointpowe",
+				"sharepoint powershell.txt"
+			],
+			[
+				"document",
+				"Office Documents Do Not Open From SharePoint.txt"
+			],
+			[
+				"documetn",
+				"EDRMS Document ID Settings.txt"
+			],
+			[
+				"powershell",
+				"sharepoint powershell.txt"
+			],
+			[
+				"sharepoint",
+				"sharepoint.txt"
+			],
+			[
+				"sharepointpower",
+				"sharepoint powershell.txt"
+			],
+			[
+				"sharpointpowershell",
+				"sharepoint powershell.txt"
+			],
+			[
+				"power",
+				"powershell.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Dropbox/Apps/Sublime/User/journal.sublime-workspace"
+			],
+			[
+				"j",
+				"C:\\Users\\cmsxlb\\Dropbox\\Apps\\Sublime\\User\\journal.sublime-project"
+			],
+			[
+				"n",
+				"C:\\Users\\cmsxlb\\Dropbox\\Apps\\Sublime\\User\\notes.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 355.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
